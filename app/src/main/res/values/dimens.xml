@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_left_login_layout">20dp</dimen>
+    <dimen name="margin_right_login_layout">20dp</dimen>
+
+</resources>
